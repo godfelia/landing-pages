@@ -1,0 +1,144 @@
+body
+{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    font-family: 'Karla', sans-serif;
+    background-color: #9999A1;
+}
+img
+{
+    border-radius: 15px;
+    height: 360px;
+    width: auto;
+    margin: 10px;
+}
+
+h1
+{  
+    margin: 0 0 0 100px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 94px;
+}
+p
+{
+font-size: 20px;
+font-weight: bold;
+margin: 25px 10px;    
+}
+.p-workexp
+{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center; 
+}
+a
+{
+    font-weight: normal;
+    font-style:normal;
+    margin-left: 5px;
+    color: black;
+}
+
+h2
+{
+    
+    margin: 0 0 0 140px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    
+}
+
+ul 
+{margin: 10px 10px 25px 45px;}
+
+.container  
+{   
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    height: auto;
+    width: 1000px;
+    background: #E5E3E6;
+    box-shadow: 10px 10px 100px 10px rgba(73, 72, 72, 0.7);
+    border-radius: 15px;
+}
+
+.workexph2
+{
+    margin: 10px 100px 5px 0;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+      
+}
+
+.studyplace
+{
+    margin: 15px 0 0 0;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+  
+}
+.educationtxt
+{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.date
+{   
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #5b0e20;
+}
+
+.main-content
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+
+.vl
+{
+background-color:#81253A;
+width: 280px;
+height: 3px;
+}
+
+.name
+{margin: 0 0 0 210px;}
+.profession
+{color: #81253A;}
+
+.skill
+{margin: 5px 0 0 100px;}
+
+.skills,.contact-info
+{margin: 15px 0 0 60px;}
+
